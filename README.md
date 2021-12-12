@@ -5,7 +5,8 @@
 After seeing what NotBlue did with his fancy lights, i decided to try to make my poor gamer lights set work. I guess this time it turned out a success.
 Basically some lights ingame will happen in your room if you have MagicHome compatible LEDs. _I currently do not have plans to make this nor the file any easier to read._
 
->[little demo (video)](https://youtu.be/uQJ527UfYaA)
+>[gameplay demo](https://youtu.be/uQJ527UfYaA)
+>[visual demo](https://youtu.be/0tTJZcoz2fY)
 
 ## Why exactly "optimised" in the name?
 Oh my dear sunshine, you don't want to receive the amount of bytes that poor LED controller received in the first tests. Even currently it's not ideal, but it works.
