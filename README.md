@@ -6,6 +6,7 @@ After seeing what NotBlue did with his fancy lights, i decided to try to make my
 Basically some lights ingame will happen in your room if you have MagicHome compatible LEDs. _I currently do not have plans to make this nor the file any easier to read._
 
 >[gameplay demo](https://youtu.be/uQJ527UfYaA)
+
 >[visual demo](https://youtu.be/0tTJZcoz2fY)
 
 ## Why exactly "optimised" in the name?
